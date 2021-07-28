@@ -1,0 +1,18 @@
+#Contact  { 
+    padding: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: azure;
+  }
+  
+  #Contact ul {
+  display: flex;
+  justify-content: space-evenly;
+  min-width: 300px;
+  list-style-type: none;
+  }
+
+  #Contact a:hover {
+    color: #fff;
+  }
+

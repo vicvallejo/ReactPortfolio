@@ -1,0 +1,22 @@
+nav {
+    display: flex;
+    background-color: wheat;
+    justify-content: right;
+     }
+
+     nav a:hover {
+      color: #fff;
+    }
+  
+
+     nav ul {
+      min-width: 300px;
+      list-style-type: none;
+      }
+
+      nav a {
+        color: #13293d;
+        padding: 14px 20px;
+        text-decoration: none;
+        text-align: center;
+      }

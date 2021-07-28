@@ -1,0 +1,33 @@
+#About {
+    display: flex;
+    flex-wrap: wrap;
+    height: 600px;
+    justify-content:space-evenly;
+    background-color: white;
+    }
+
+#perfoto  {  
+  height: 70px;
+    }
+
+#Abaout p  {
+  display: flex-right;
+        padding: 10px;
+        justify-self: right;    
+        font-size: 20px;
+        color: darkslategray; 
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        border-bottom-style: solid;
+        border-bottom-color: black;
+        }
+
+        @media screen and (max-width: 992px) {
+             
+      
+      
+          #About  {
+            text-size-adjust: 5px;
+             color: dimgrey;
+          }
+        }
+      

@@ -1,0 +1,14 @@
+#Work {  
+    display: flex;
+    flex-wrap: wrap;
+    background-color: lightpink;
+    }
+
+
+    #Work div {
+      flex: 33.33%;
+    }
+
+    #Work img  {  
+      width: 20%;
+    }
